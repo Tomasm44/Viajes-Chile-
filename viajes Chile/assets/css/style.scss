@@ -1,0 +1,14 @@
+.nav-link {
+    padding-right: var(--#{$prefix}navbar-nav-link-padding-x);
+
+  }
+
+  .container-fluid {
+    // stylelint-disable declaration-no-important
+  
+    background-color: aquamarine; 
+
+    // stylelint-enable declaration-no-important
+
+
+@import "../node_modules/bootstrap/scss/bootstrap";

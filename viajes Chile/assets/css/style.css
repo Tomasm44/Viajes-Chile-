@@ -1,0 +1,59 @@
+body {
+    background-color: black;
+}
+
+p {
+    display: inline-block;
+    background-color: black;
+    color: white;
+    
+}
+
+.navbar-brand {
+    padding-right: 1000px;
+}
+
+.columna {
+    padding: 20px;
+    width: 30%;
+    margin-left: 1%;
+}
+
+.part1 h1 {
+     text-align: center;
+     color: white;
+}
+
+.Destacados h1{
+    text-align: center;
+    color: white;
+}
+
+.contactos {
+    text-align: center;
+    color: white;
+} 
+
+footer {
+    background-color: aqua;
+}
+
+.primera {
+    padding-right: 1000px;
+}
+
+.button {
+    background-color: blue;
+}
+
+footer {
+    background-color: aqua;
+}
+
+
+@media (max-width: 600px) {
+    nav {
+       background-color: aqua  ; 
+       flex-direction: column;
+    }
+}
